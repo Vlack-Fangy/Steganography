@@ -12,9 +12,10 @@ Welcome to the Image Stagenography project! 🌌
 ## Overview
 Ever wondered about hiding data in plain sight? That's exactly what our Image Stagenography project does! This project allows you to seamlessly encode and decode messages within images. The concept is simple yet fascinating - your data remains incognito, right within your images.
 ## How it Works
-<img width="1612" alt="Screenshot 2023-11-12 at 3 19 02 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/7695e22e-6a8d-42c6-a155-75f536929718">
 1. **Encode:** Select an image, input your text, and witness the magic as your message gets subtly embedded into the image of your choice.
 2. **Decode:** Retrieve hidden messages by uploading an image containing encoded data. Uncover the concealed information effortlessly!
+
+<img width="1612" alt="Screenshot 2023-11-12 at 3 19 02 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/7695e22e-6a8d-42c6-a155-75f536929718">
 
 ## Project Flow
 The project is structured with a user-friendly interface, making it easy for anyone to explore. It consists of two main functionalities:
