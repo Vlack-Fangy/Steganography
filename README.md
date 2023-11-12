@@ -23,7 +23,7 @@ The project is structured with a user-friendly interface, making it easy for any
 <img width="1498" alt="Screenshot 2023-11-12 at 3 21 59 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/1c205254-3e1a-456d-88c1-f5a6ab890a87">
 - **Decode:** Extract concealed information from an image.
 <img width="1612" alt="Screenshot 2023-11-12 at 3 22 46 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/8cd9dce8-307c-457a-951b-d01b3f5b92b1">
-<img width="1501" alt="Screenshot 2023-11-12 at 3 23 33 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/6219f9b4-94e3-4996-9377-c11ea16be0e6">
+<img width="1612" alt="Screenshot 2023-11-12 at 3 29 25 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/64b04b23-e216-4036-b9fc-5397d83709df">
 
 ## Code Walkthrough
 The code is neatly organized into classes and functions, ensuring modularity and readability. The graphical interface is implemented using Tkinter, providing an interactive experience. Image processing is handled using the Pillow library, making it a powerful tool for stagenography.
