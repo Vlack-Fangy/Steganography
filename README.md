@@ -1,5 +1,6 @@
 # Image Stagenography Project
 Welcome to the Image Stagenography project! 🌌
+
 <img width="388" alt="Screenshot 2023-11-12 at 2 28 55 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/e80e7e32-dd19-40ed-9389-03f2f46e0ca4">
 
 ## Tech Stack
@@ -18,7 +19,7 @@ Ever wondered about hiding data in plain sight? That's exactly what our Image St
 ## Project Flow
 The project is structured with a user-friendly interface, making it easy for anyone to explore. It consists of two main functionalities:
 - **Encode:** Hide your message within an image of your choosing.
-- <img width="1612" alt="Screenshot 2023-11-12 at 3 20 07 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/d6d6e3c5-69a7-462c-ab37-6c14fabd7c7e">
+<img width="1612" alt="Screenshot 2023-11-12 at 3 20 07 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/d6d6e3c5-69a7-462c-ab37-6c14fabd7c7e">
 <img width="1498" alt="Screenshot 2023-11-12 at 3 21 59 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/1c205254-3e1a-456d-88c1-f5a6ab890a87">
 - **Decode:** Extract concealed information from an image.
 <img width="1612" alt="Screenshot 2023-11-12 at 3 22 46 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/8cd9dce8-307c-457a-951b-d01b3f5b92b1">
