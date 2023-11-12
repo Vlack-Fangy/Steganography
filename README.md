@@ -21,6 +21,7 @@ The project is structured with a user-friendly interface, making it easy for any
 - **Encode:** Hide your message within an image of your choosing.
 <img width="1612" alt="Screenshot 2023-11-12 at 3 20 07 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/d6d6e3c5-69a7-462c-ab37-6c14fabd7c7e">
 <img width="1498" alt="Screenshot 2023-11-12 at 3 21 59 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/1c205254-3e1a-456d-88c1-f5a6ab890a87">
+
 - **Decode:** Extract concealed information from an image.
 <img width="1612" alt="Screenshot 2023-11-12 at 3 22 46 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/8cd9dce8-307c-457a-951b-d01b3f5b92b1">
 <img width="1612" alt="Screenshot 2023-11-12 at 3 29 25 PM" src="https://github.com/Vlack-Fangy/Steganography/assets/114677944/64b04b23-e216-4036-b9fc-5397d83709df">
